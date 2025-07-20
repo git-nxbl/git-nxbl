@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Nabeel — `git-nxbl`
+
+🛡️ Cybersecurity learner focused on hands-on skills and real-world labs  
+🎓 Currently working through the Google Cybersecurity Certificate  
+💻 Building projects in risk assessment, Linux, and network security  
+☁️ Interested in Cloud Security, SOC, and Blue Team operations  
+📚 Learning 1 hour a day and documenting my journey here
+
+🔗 [My LinkedIn](https://www.linkedin.com/in/nabeel-shajahan-48341b375)  
+📁 Check out my latest project: [Risk Assessment Report](https://github.com/git-nxbl/risk-assessment-ecommerce)
 
 <!--
 **git-nxbl/git-nxbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
