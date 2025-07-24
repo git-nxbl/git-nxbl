@@ -44,7 +44,7 @@
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nabeel-shajahan-48341b375/)
 - 🧠 I’m always open to connect with other learners and mentors in cybersecurity!
 
 ---
