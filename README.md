@@ -5,7 +5,7 @@
 Bishop Jerome Institute, Kollam — Affiliated with APJ Abdul Kalam Technological University (KTU), Kerala, India  
 *Expected Graduation: 2027*
 
-[LinkedIn](https://www.linkedin.com/in/nabeel-shajahan-48341b375/) • [GitHub](https://github.com/git-nxbl) • Email: Available upon academic request
+[LinkedIn](https://www.linkedin.com/in/nxbl01/) • [GitHub](https://github.com/git-nxbl) • [Email](mail.nxbl@gmail.com)
 
 ---
 
@@ -82,5 +82,5 @@ My academic project work centers on building reliable, data-driven systems—fro
 - **Institution:** Bishop Jerome Institute, Kollam (APJ Abdul Kalam Technological University)
 - **Degree:** Bachelor of Technology in Computer Science and Engineering (Data Science)
 - **Graduation:** Expected June 2027
-- **LinkedIn:** [linkedin.com/in/nabeel-shajahan-48341b375](https://www.linkedin.com/in/nabeel-shajahan-48341b375/)
+- **LinkedIn:** [https://www.linkedin.com/in/nxbl01/](https://www.linkedin.com/in/nxbl01/)
 - **GitHub:** [github.com/git-nxbl](https://github.com/git-nxbl)
